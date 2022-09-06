@@ -17,7 +17,7 @@
   "twitter_account": "@my-account",
   "github_account": "ADeepTech",
   "backend": {
-    "name": "github"
+    "name": "github",
     "repo": "ADeepTech/nextjs-netlify-blog-template-1"
   }
 }
