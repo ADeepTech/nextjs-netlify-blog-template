@@ -15,7 +15,7 @@
   ],
   "posts_per_page": 5,
   "twitter_account": "@my-account",
-  "github_account": "wutali"
+  "github_account": "ADeepTech",
   "backend": {
     "name": "github"
     "repo": "ADeepTech/nextjs-netlify-blog-template-1"
